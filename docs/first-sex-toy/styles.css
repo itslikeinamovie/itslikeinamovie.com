@@ -1,0 +1,139 @@
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  color: #222;
+}
+
+body {
+  font-family: "IBM Plex Serif", serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  max-height: 1250px;
+  margin: 0;
+  padding: 5px;
+}
+
+.build-your {
+  font-size: 25px;
+  font-weight: 400;
+  margin: 40px 0 10px 0;
+  text-transform: uppercase;
+}
+
+.logo {
+  font-family: "Playfair Display", serif;
+  font-size: 28px;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin: 50px 0 0 0;
+}
+
+h1 {
+  font-family: "Playfair Display", serif;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 60px;
+  margin: 0;
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 60px;
+  margin: 0;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 48px;
+  margin: 50px 0;
+}
+
+h4 {
+  font-size: 28px;
+  font-weight: 300;
+  line-height: 40px;
+  margin: 50px 15%;
+}
+
+p {
+  font-size: 25px;
+  font-weight: 300;
+  margin: 50px 0;
+  word-wrap: break-word;
+  line-height: 46px;
+}
+
+.number {
+  display: block;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 40px;
+  margin: 20px 0;
+}
+
+.progress {
+  font-weight: 400;
+  font-style: italic;
+  font-size: 40px;
+}
+
+.cta {
+  display: inline-block;
+  border: 2px solid;
+  padding: 20px 30px;
+}
+
+.important {
+  font-style: italic;
+}
+
+.social-link {
+  font-size: 40px;
+  text-decoration: none;
+  margin: 0 20px;
+}
+
+a {
+  text-decoration: none;
+  word-wrap: break-word;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.story {
+  display: block;
+  margin: 50px 0;
+  font-style: italic;
+}
+
+.story .fa {
+  display: block;
+  margin: 0 0 5px 0;
+  font-size: 20px;
+}
+
+.navigation a {
+  margin: 0 10px;
+  line-height: 50px;
+  white-space: nowrap;
+}
+
+.go-next {
+  margin: 50px 0;
+  font-size: 23px;
+}
+
+.comments {
+  margin: 50px 0;
+}
